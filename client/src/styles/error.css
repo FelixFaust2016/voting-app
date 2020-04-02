@@ -1,0 +1,7 @@
+.error {
+    background-color: var(--danger);
+    text-align: center;
+    color: white;
+    width: 20%;
+    margin: 0.1rem auto;
+}
